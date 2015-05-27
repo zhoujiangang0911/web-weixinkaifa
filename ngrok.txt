@@ -1,0 +1,7 @@
+662ef46.ngrok.com
+
+
+zhoujiangang0911.tunnel.mobi
+
+
+ngrok -config ngrok.cfg -subdomain example 8080
